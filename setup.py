@@ -19,7 +19,7 @@ setup(
     name='DiamondPriceprediction',
     version='0.0.1',
     author='Prashanth',
-    author_email="apprashanth11@gmail.com",
+    author_email="example@gmail.com",
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 
